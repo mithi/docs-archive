@@ -19,6 +19,7 @@
 8. [HackerNews]
 4. [Article by Hu Weijun on GitCode.com](https://blog.gitcode.com/f29d25f9a84782baa1438ee272ee26b1.html) (六足机器人模拟器)
 
+[New Energy Coder Club](https://github.com/new-energy-coder-club/new_energy_coder_club/blob/master/competitions/2025robocon/%E4%B8%8A%E4%BD%8D%E6%9C%BA%E7%BB%84.md)
 5. [Article by  Ranjith kumar on codingislove.com](https://codingislove.com/hexapod-robot-simulator-react/)
 6. [Vinay Singh on LinkedIn](https://www.linkedin.com/posts/vinay-singh-4a58a4280_hexapod-robot-simulator-bare-minimum-fully-activity-7447189170692915200-oVzV)
 
