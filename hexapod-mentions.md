@@ -1,12 +1,6 @@
 # Mithi's Bare-Minimum Hexapod Robot Simulator
 
-- Official Github Repositories [1](https://github.com/mithi/hexapod), [2](https://github.com/mithi/hexapod-irl), [3](https://github.com/mithi/hexapod-robot-simulator)
-
-- Official LinkedIn posts [1](https://www.linkedin.com/posts/minimithi_robotics-robots-robot-ugcPost-6683061022863048704-mzSR), [2](https://www.linkedin.com/posts/minimithi_reactjs-robotics-javascript-ugcPost-6751249317832605696-6Kph)
-  
-- [Official Blog Posts](https://mithi.github.io/robotics-blog/tags/hexapod/)
-
-- Official Reddit Posts [1](https://www.reddit.com/r/robotics/comments/hhlana/hexapod_robot_inverse_kinematics_visualizer/)
+- Official Github Repositories [1](https://github.com/mithi/hexapod), [2](https://github.com/mithi/hexapod-irl), [3](https://github.com/mithi/hexapod-robot-simulator) | Official LinkedIn posts [1](https://www.linkedin.com/posts/minimithi_robotics-robots-robot-ugcPost-6683061022863048704-mzSR), [2](https://www.linkedin.com/posts/minimithi_reactjs-robotics-javascript-ugcPost-6751249317832605696-6Kph) | [Official Blog Posts](https://mithi.github.io/robotics-blog/tags/hexapod/) | Official Reddit Posts [1](https://www.reddit.com/r/robotics/comments/hhlana/hexapod_robot_inverse_kinematics_visualizer/)
 
 
 ## Mentions 
@@ -37,7 +31,11 @@
 
 13. [The Coding Train](https://thecodingtrain.com/challenges/64-kinematics)
 
-14. [Vinay Singh on LinkedIn](https://www.linkedin.com/posts/vinay-singh-4a58a4280_hexapod-robot-simulator-bare-minimum-fully-activity-7447189170692915200-oVzV)
+14. [Mentioned in Harsh Mittal's Article Leveraging Python In Robotics](https://www.harshmittal.com/tutorials/Leveraging-Python-In-Robotics/)
+
+15. [Mentioned in React Status Code Creative Corner
+
+16. [Vinay Singh on LinkedIn](https://www.linkedin.com/posts/vinay-singh-4a58a4280_hexapod-robot-simulator-bare-minimum-fully-activity-7447189170692915200-oVzV)
 
 > Simulation is the backbone of robotics development.  Most of the time, we get bogged down by heavy software installations just to test simple kinematics. Seeing this Hexapod Simulator run entirely on a browser is impressive! It’s a great tool for anyone trying to understand Inverse Kinematics and walking gaits without needing a high-end PC. Definitely worth exploring for those into multi-legged robot design.
 
