@@ -17,11 +17,11 @@
 
 6. [HackerNews: posted by Kscottz](https://news.ycombinator.com/item?id=22927190)
 
-7. [Wenku](https://wenku.csdn.net/answer/p7vcaqy7qp)
+7. [Article at Wenku](https://wenku.csdn.net/answer/p7vcaqy7qp)
 
 8. [Article by Hu Weijun on GitCode.com](https://blog.gitcode.com/f29d25f9a84782baa1438ee272ee26b1.html) (六足机器人模拟器)
 
-9. [Article by  Ranjith kumar on codingislove.com](https://codingislove.com/hexapod-robot-simulator-react/)
+9. [Article by Ranjith kumar on codingislove.com](https://codingislove.com/hexapod-robot-simulator-react/)
 
 10. [New Energy Coder Club](https://github.com/new-energy-coder-club/new_energy_coder_club/blob/master/competitions/2025robocon/%E4%B8%8A%E4%BD%8D%E6%9C%BA%E7%BB%84.md)
 
@@ -33,7 +33,7 @@
 
 14. [Mentioned in Harsh Mittal's Article Leveraging Python In Robotics](https://www.harshmittal.com/tutorials/Leveraging-Python-In-Robotics/)
 
-15. [Mentioned in React Status Code Creative Corner
+15. [Mentioned in React Status Code Creative Corner Section](https://react.statuscode.com/issues/200)
 
 16. [Vinay Singh on LinkedIn](https://www.linkedin.com/posts/vinay-singh-4a58a4280_hexapod-robot-simulator-bare-minimum-fully-activity-7447189170692915200-oVzV)
 
