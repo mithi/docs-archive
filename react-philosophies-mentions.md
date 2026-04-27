@@ -1,4 +1,6 @@
-> Grok, where in the web was `https://github.com/mithi/react-philosophies` mentioned? 
+> Grok, where in the web was `https://github.com/mithi/react-philosophies` mentioned?
+
+![](./mentions-screenshots/react-philosophies/react-philosophies-mentions-collage.png)
 
 # Translations by the Community
 
