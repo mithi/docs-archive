@@ -1,54 +1,88 @@
 > Grok, where in the web was `https://github.com/mithi/react-philosophies` mentioned? 
 
-### On Twitter/X (recent and older mentions)
-These users posted about the repo, often recommending it as a helpful guide for React developers:
 
-- **@alexsoyes** (French-speaking account): Shared the repo as "Un dépôt GitHub avec des guidelines pour coder son application React" (a GitHub repo with guidelines for coding your React app), with an image. High engagement.
-- **@rohan_webdev**: Included it in a list of "Golden GitHub Repositories for REACT Developers."
-- **@kur0buchi** (Japanese developer): Posted about reading the repo and linked to a Japanese blog post summarizing thoughts on it ("react-philosophies を読んでの所感").
-- **@bc_rikko** (Japanese, creator of NES.css): Shared the repo directly and highlighted a fun quote from it ("Pass the banana, not the gorilla...") with Japanese translation.
-- **@commte** (Japanese): Posted a summary in Japanese of key points from the repo, like keeping components small/simple and testing productively.
-- **@mohritaroh** (Japanese tech blog aggregator): Tweeted about a Japanese blog post discussing the repo.
-- Other mentions: **@sadeghbarati5**, **@Sanjeev_Tea**, **@ivensauro** (Portuguese), **@zadextroyer**, and **@codegurusblog** have referenced or shared it in various contexts.
 
-Japanese mentions are relatively common because the repo has been discussed in Japanese tech blogs and shared in the community.
+### Translations by the Community
 
-### Translations and Related Projects
-- **Leecason/react-philosophies-cn** on GitHub: A Chinese translation of the repo ("《React 开发思想纲领》" – React Development Thought Guidelines). The maintainer (Leecason) has contributed to making the content accessible in Chinese.
-- Japanese blog coverage: Posts like "react-philosophies を読んでの所感" on vivit engineering blog have been shared on X by Japanese developers. This shows community interest in Japan, though I didn't find a full official Japanese translation repo in the results.
+1. **Chinese (Simplified)** by @Leecason  
+   - Full Chinese translation of the repository.  
+   - https://github.com/Leecason/react-philosophies-cn
 
-### Other Web Mentions (LinkedIn, Blogs, etc.)
-- **Santiago Blanco** on LinkedIn: Shared the repo as a "small guide to live/code by" for React developers.
-- **Jianru Beyer** on LinkedIn: Posted an article titled "React Philosophies" that directly links to and discusses the mithi repo.
-- Dev.to and Medium articles: Several "React resources" roundups include it (e.g., "20 GitHub Repositories to Become a React Master" and weekly newsletters). One example links it alongside other React learning materials.
-- GitHub forks/stars: The original repo has thousands of stars; forks like one by **hub-xp** exist, and it's referenced in PR checklists or other React-related repos.
+2. **Korean** by @lim-jiwoo  
+   - Korean translation of react-philosophies.  
+   - https://github.com/lim-jiwoo/react-philosophies-ko
 
-Here are the **exact direct links** to the people, posts, articles, and resources that mentioned **https://github.com/mithi/react-philosophies** (including Japanese ones). I've grouped them for clarity.
+3. **Chinese** by @wangxiang  
+   - Chinese version hosted as a blog article.  
+   - https://wang1xiang.github.io/blog/docs/react/react-philosophies.html
 
-### Japanese Mentions
-- **@kur0buchi** (Japanese developer, real name 関 / Seki) — Wrote and shared a blog post with his impressions after reading the repo (he discovered it on Twitter).  
-  Blog post: https://vivit.hatenablog.com/entry/2021/12/20/070000  
-  His X/Twitter profile: https://twitter.com/kur0buchi (or https://x.com/kur0buchi)
+### Mentions
 
-- **Japanese blog coverage** (same vivit engineering blog post above, often referenced in Japanese tech circles).
+1. **Article: react-philosophies を読んでの所感** by Seki (@kur0buchi)  
+   - Japanese blog post sharing impressions after reading the repo (also available on Zenn).  
+   - Vivit Hatenablog: https://vivit.hatenablog.com/entry/2021/12/20/070000  
+   - Zenn: https://zenn.dev/keytack/articles/da1ddf423b2b9d
 
-Other Japanese mentions exist on X (e.g., summaries of key points like keeping components small or productive testing), but they are scattered in older tweets. Searching X for "react-philosophies" + Japanese terms like "所感" or "感想" will surface more.
+2. **bytes.dev Newsletter**  
+   - Mention in the popular bytes.dev developer newsletter.  
+   - https://x.com/bytesdotdev/status/1443309360977940490
 
-### Chinese Translation
-- **Leecason/react-philosophies-cn** (full Chinese translation titled 《React 开发思想纲领》):  
-  https://github.com/Leecason/react-philosophies-cn
+3. **Un dépôt GitHub avec des guidelines pour coder son application React** by @alexsoyes  
+   - French tweet recommending the repo as guidelines for coding React applications.  
+   - https://x.com/alexsoyes/status/1665750350685454336
 
-### Other Web Mentions & Articles
-- **Dev.to article** ("20 GitHub Repositories to Become a React Master") that highlights the repo:  
-  https://dev.to/martinadamsdev/20-github-repositories-to-become-a-react-master-opl
+4. **Golden GitHub Repositories for REACT Developers** by @rohan_webdev  
+   - Included the repo in a curated list of useful React repositories.  
+   - https://x.com/rohan_webdev/status/1619260152582123520
 
-- **Santiago Blanco** on LinkedIn (shared it as a useful guide):  
-  https://www.linkedin.com/posts/santiblanco99_github-mithireact-philosophies-things-activity-6849747540892540928-PNHl
+5. **Mention by @bc_rikko** (creator of NES.css)  
+   - Shared the repo with a fun Japanese translation of the “banana vs gorilla” quote.  
+   - https://x.com/bc_rikko/status/1455682384028909570
 
-### X/Twitter Mentions (Direct Links Where Available)
-- **@HusnainDev** (included it in a list of useful React repos):  
-  https://x.com/HusnainDev (post mentions: "React-philosophies github.com/mithi/react-ph...")
+> バナナ🍌を渡せ！渡すのはバナナを持ったゴリラ🌲🍌🦍🌲じゃない
 
-Many other shares exist (e.g., lists of "golden React repos," French recommendations, or casual shares), but X links are often not indexed with permanent direct post URLs in search results. You can easily find recent ones by searching on X/Twitter for:
-- `"react-philosophies"` or `"mithi/react-philosophies"`
-- Or the full URL: `github.com/mithi/react-philosophies`
+6. **Martin Adams on Dev.to: 20 GitHub Repositories to Become a React Master**  
+   - Featured react-philosophies in a list of must-know React repositories.  
+   - https://dev.to/martinadamsdev/20-github-repositories-to-become-a-react-master-opl
+
+7. **Mention by コムテ @commte**  
+   - Japanese tweet summarizing key points from the repo (e.g., keep components small & simple, 70% test coverage is often enough).  
+   - https://x.com/commte/status/1455384171174629379
+
+> コードを書くときに考えること #駆け出しエンジニアと繋がりたい
+> コンポーネントを小さくシンプルに保ちましょう
+> フロントエンドの場合、100％のカバレッジ（テスト確認）は必要ありません、70％で十分
+> テストはあなたをより生産的にする など
+
+8. **React作为时下最热的前端框架，各位有什么经验分享下吗？**  
+   - Zhihu discussion thread mentioning the repo.  
+   - https://www.zhihu.com/question/36446304
+
+9. **Tencent & Juejin articles**  
+   - Chinese articles titled “一份 2.5k star 的《React 开发思想纲领》” highlighting the repo.  
+   - Tencent: https://cloud.tencent.com/developer/article/2047220  
+   - Juejin: https://juejin.cn/post/7076244324614144014
+
+10. **Mention by @kur0buchi (KeytacK)**  
+    - Japanese tweet sharing the blog post “react-philosophies を読んでの所感” as a valuable read.  
+    - https://x.com/kur0buchi/status/1477640954756874243
+> >公開日的にめちゃめちゃ今更なんですが一読の価値ありな記事の紹介記事を書きまんた
+
+11. **@mohritaroh** (Japanese tech blog aggregator)  
+    - Tweeted about the Japanese blog post discussing react-philosophies.  
+    - https://x.com/mohritaroh/status/1472692119613677570
+> react-philosophies を読んでの所感
+
+12. **@Sanjeev_Tea**  
+    - Mention of the repository.  
+    - https://x.com/Sanjeev_Tea/status/1612135804268347393
+
+13. **@zadextroyer**  
+    - Mention of the repository.  
+    - https://x.com/zadextroyer/status/1484589696512835586
+
+### Miscellaneous
+
+14. **Reddit Discussion**  
+  Thread discussing “What I think about when I write code in React” (references the philosophies).  
+  https://www.reddit.com/r/reactjs/comments/pvwb6m/what_i_think_about_when_i_write_code_in_react
