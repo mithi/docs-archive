@@ -31,7 +31,7 @@ Official Github Repositories [1](https://github.com/mithi/hexapod), [2](https://
 
 13. [高级六足机器人模拟器：Hexapod Robot Simulator](https://damodev.csdn.net/68804dc6bb9d8e0ecec29102.html)
 
-14. [The Coding Train](https://thecodingtrain.com/challenges/64-kinematics)
+14. [Mentioned in The Coding Train's Kinematics Page](https://thecodingtrain.com/challenges/64-kinematics)
 
 15. [Mentioned in Harsh Mittal's Article Leveraging Python In Robotics](https://www.harshmittal.com/tutorials/Leveraging-Python-In-Robotics/)
 
