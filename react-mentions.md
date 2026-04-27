@@ -1,6 +1,6 @@
 > Grok, where in the web was `https://github.com/mithi/react-philosophies` mentioned? 
 
-### Translations by the Community
+# Translations by the Community
 
 1. [**Chinese (Simplified)** by @Leecason](https://github.com/Leecason/react-philosophies-cn)  
 
@@ -9,7 +9,7 @@
 3. [**Chinese** by @wangxiang](https://wang1xiang.github.io/blog/docs/react/react-philosophies.html) 
 
 
-### Notable Mentions
+# Notable Mentions
 1. [**the popular bytes.dev developer newsletter**](https://x.com/bytesdotdev/status/1443309360977940490)
 
 2. [**Un dépôt GitHub avec des guidelines pour coder son application React** by @alexsoyes](https://x.com/alexsoyes/status/1665750350685454336) 
@@ -73,7 +73,7 @@
 - [@CollectorIt](https://x.com/CollectorIt/status/1444274573000708102)
 - [@Sanjeev_Tea](https://x.com/Sanjeev_Tea/status/1612135804268347393)
 
-### Miscellaneous
+# Miscellaneous
 [**Reddit Discussion**](https://www.reddit.com/r/reactjs/comments/pvwb6m/what_i_think_about_when_i_write_code_in_react) 
   - Thread discussing “What I think about when I write code in React” (references the philosophies).  
   
