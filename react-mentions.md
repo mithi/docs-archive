@@ -32,21 +32,17 @@
 
 6. [**Golden GitHub Repositories for REACT Developers** by @rohan_webdev](https://x.com/rohan_webdev/status/1619260152582123520) 
 
-7. [**Mention by @bc_rikko** (creator of NES.css)](https://x.com/bc_rikko/status/1455682384028909570)
-  - Shared the repo with a fun Japanese translation of the “banana vs gorilla” quote.
-> バナナ🍌を渡せ！渡すのはバナナを持ったゴリラ🌲🍌🦍🌲じゃない
+7. [**Martin Adams on Dev.to: 20 GitHub Repositories to Become a React Master**](https://dev.to/martinadamsdev/20-github-repositories-to-become-a-react-master-opl)
 
-8. [**Martin Adams on Dev.to: 20 GitHub Repositories to Become a React Master**](https://dev.to/martinadamsdev/20-github-repositories-to-become-a-react-master-opl)
-
-9. [@sadeghbarati5](https://x.com/sadeghbarati5/status/1645901485442564096)
+8. [@sadeghbarati5](https://x.com/sadeghbarati5/status/1645901485442564096)
 > This tweet will confuse the new Devs, this can lead to doubt their way Here's what I found thanks to Mithi 💯
 
-10. [hinyaigeek/Shinobu Hayashi](https://x.com/Shinyaigeek/status/1455179377717645318)
+9. [hinyaigeek/Shinobu Hayashi](https://x.com/Shinyaigeek/status/1455179377717645318)
 > Reactアプリを書く際の哲学&TIPS集、定期的に読み返したい
 > "Duplication is far cheaper than the wrong abstraction" 
 > こことかReactに限ったやつではないんだけど、普段考えてることがきれいに言語化されていて唸った
 
-11. [**Mention by コムテ @commte**](https://x.com/commte/status/1455384171174629379)
+10. [**Mention by コムテ @commte**](https://x.com/commte/status/1455384171174629379)
    - Japanese tweet summarizing key points from the repo (e.g., keep components small & simple, 70% test coverage is often enough).  
 
 > コードを書くときに考えること #駆け出しエンジニアと繋がりたい
@@ -54,16 +50,14 @@
 > フロントエンドの場合、100％のカバレッジ（テスト確認）は必要ありません、70％で十分
 > テストはあなたをより生産的にする など
 
-12. [@CSSRadar (Yuya Saito)](https://x.com/cssradar/status/1454978497680711687)
-
-13. [**React作为时下最热的前端框架，各位有什么经验分享下吗？**](https://www.zhihu.com/question/36446304)  
-
-14. **Tencent & Juejin articles**  
+11. **Chinese Websites: tencent.com, Juejin.cn, Zhihu.xom**  
    - Chinese articles titled “一份 2.5k star 的《React 开发思想纲领》” highlighting the repo.  
    - Tencent: https://cloud.tencent.com/developer/article/2047220  
    - Juejin: https://juejin.cn/post/7076244324614144014
+   - Zhihu: [**React作为时下最热的前端框架，各位有什么经验分享下吗？**](https://www.zhihu.com/question/36446304)
 
 # Other Mentions of React Philosophies
+- [@CSSRadar (Yuya Saito)](https://x.com/cssradar/status/1454978497680711687)
 - [@Sanjeev_Tea](https://x.com/Sanjeev_Tea/status/1612135804268347393)  
 - [@zadextroyer](https://x.com/zadextroyer/status/1484589696512835586)
 - [@python38751694](https://x.com/python38751694/status/1455171013277196297)
@@ -71,9 +65,7 @@
 - [@c0deNinja](https://x.com/c0deNinja/status/1448768591243919367)
 - [@spietrek](https://x.com/spietrek/status/1445538215834755072)
 - [@CollectorIt](https://x.com/CollectorIt/status/1444274573000708102)
-- [@Sanjeev_Tea](https://x.com/Sanjeev_Tea/status/1612135804268347393)
-
+  
 # Miscellaneous
-[**Reddit Discussion**](https://www.reddit.com/r/reactjs/comments/pvwb6m/what_i_think_about_when_i_write_code_in_react) 
-  - Thread discussing “What I think about when I write code in React” (references the philosophies).  
+[**Reddit Discussion Thread**](https://www.reddit.com/r/reactjs/comments/pvwb6m/what_i_think_about_when_i_write_code_in_react)  
   
