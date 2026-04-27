@@ -8,13 +8,14 @@
 1. [XuelongSun/HexapodRobotSimulation](https://github.com/XuelongSun/HexapodRobotSimulation) With [accompanying Video Tutorials](https://www.bilibili.com/video/BV1qF41167Sx)
 > This project is mainly inspired by Mithi's Bare-Minimum Hexapod Robot Simulator
 
-2. [Weekly Robotics Newletter: Akshet Patel on LinkedIn](https://www.linkedin.com/posts/akshetpatel_hexapod-robot-simulator-bare-minimum-fully-activity-7447176741015572480-_EUP)
+2. [Akshet Patel's Weekly Robotics Newletter (LinkedIn)](https://www.linkedin.com/posts/akshetpatel_hexapod-robot-simulator-bare-minimum-fully-activity-7447176741015572480-_EUP)
 
 3. [Adafruit Daily Newsletter](https://www.adafruitdaily.com/2020/04/21/device-simulator-adds-clue-54-oshwa-certified-boards-and-more-python-adafruit-circuitpython-circuitpython-micropython-thepsf/)
 
 4. [Plotly Community by creator of Plotly Express and maintainer of Plotly.py](https://community.plotly.com/t/hexapod-robot-simulator-with-only-numpy-and-plotly-dash/37955)
 5. [Awesome Robotics Libraries](https://www.ncnynl.com/docs/en/awesome/awesome-robotics-libraries/index.html)
 
+[Mateusz Sadowski: WeeklyRobotics.com](https://www.weeklyrobotics.com/weekly-robotics-88)
 6. [HackerNews: posted by Kscottz](https://news.ycombinator.com/item?id=22927190)
 
 7. [Article at Wenku](https://wenku.csdn.net/answer/p7vcaqy7qp)
@@ -39,6 +40,7 @@
 
 > Simulation is the backbone of robotics development.  Most of the time, we get bogged down by heavy software installations just to test simple kinematics. Seeing this Hexapod Simulator run entirely on a browser is impressive! It’s a great tool for anyone trying to understand Inverse Kinematics and walking gaits without needing a high-end PC. Definitely worth exploring for those into multi-legged robot design.
 
+17. [John Sokol: Telerobotics](https://telerobotics.blogspot.com/2020/08/mithis-bare-minimum-hexapod-robot.html)
 ## Related 
 
 1. [Fraudulent Claims](https://www.linkedin.com/posts/minimithi_opensource-techethics-activity-7434186903366631424-f3eZ)
