@@ -4,4 +4,5 @@
 - Probbie Case Video 2017 from Dentsu Jayme Syfu - https://www.youtube.com/watch?v=Vm52cbjBIXY, https://www.youtube.com/watch?v=-h9gluV0xTE
 - Mithi: Three Achievements - https://docs.google.com/document/d/1T-w_ouGFpXEcIkhEoT0HOFBvGo04MsmhgHOKqUBD7As/edit?usp=sharing
 - Mithi: Resume - https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing
-- Mithi: Research Proposal 1 - https://docs.google.com/document/d/1Vsib2mIBfWRi37YoCsTgSIZ9I4z9PEaSRzNjynD0NqY/edit?usp=sharing
+- Mithi: Research Proposal: A Cognitively-Rich Human-AI Interaction Pattern for Deeper Vocabulary Understanding - https://docs.google.com/document/d/1Vsib2mIBfWRi37YoCsTgSIZ9I4z9PEaSRzNjynD0NqY/edit?usp=sharing
+- Mithi: Research Proposal: SoftVoicesAI: Thoughtful Agents to Inspire Critical Reflection on Social Media Takes - https://docs.google.com/document/d/1VXaXnqGJTlWs7z4CVzCo1ZTNuq80Oqq7llN9F40NFV8/edit?usp=sharing
