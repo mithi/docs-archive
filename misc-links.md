@@ -6,3 +6,4 @@
 - Mithi: Resume - https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing
 - Mithi: Research Proposal: A Cognitively-Rich Human-AI Interaction Pattern for Deeper Vocabulary Understanding - https://docs.google.com/document/d/1Vsib2mIBfWRi37YoCsTgSIZ9I4z9PEaSRzNjynD0NqY/edit?usp=sharing
 - Mithi: Research Proposal: SoftVoicesAI: Thoughtful Agents to Inspire Critical Reflection on Social Media Takes - https://docs.google.com/document/d/1VXaXnqGJTlWs7z4CVzCo1ZTNuq80Oqq7llN9F40NFV8/edit?usp=sharing
+- Undergraduate Project: MISTv: Multimedia, Internet, Storage, and Television - Shulamith Rivera Sevilla - https://drive.google.com/file/d/142KM1KN9bFGn9PrXJ0krxIoqHVJuuQCN/view?usp=sharing
